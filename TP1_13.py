@@ -1,4 +1,4 @@
-# TP1.12
+# TP1.13
 # Desenvolva um programa que verifique se uma palavra ou frase inserida pelo usuário é um palíndromo (lê-se igual de trás para frente).
 
 def Main():
